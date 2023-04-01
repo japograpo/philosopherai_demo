@@ -1,4 +1,4 @@
-const openai_token = "YOUR_OPENAI_ACCESS_TOKEN";
+const openai_token = "OPENAI_ACCESS_TOKEN";
 
 
 const stringSimilarity = require('string-similarity');
